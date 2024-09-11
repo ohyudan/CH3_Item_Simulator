@@ -1,7 +1,4 @@
 {
-  "dependencies": {
-    "express": "^4.19.2"
-  },
   "name": "CH3-Item_simulator",
   "version": "1.0.0",
   "main": "index.js",
@@ -9,6 +6,9 @@
   "repository": "https://github.com/ohyudan/CH3_Item_Simulator.git",
   "author": "ohyudan <ohyudan86@gmail.com>",
   "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
   "devDependencies": {
     "ts-node": "^10.9.2",
     "tsc": "^2.0.4",
